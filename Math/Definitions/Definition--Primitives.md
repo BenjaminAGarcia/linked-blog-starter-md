@@ -25,7 +25,10 @@ $\int \frac1{sin^{2}x} \ x \ dx = -cot x +c.$
 $\int \frac1{cos^{2}x} \ x \ dx = tan x +c.$
 
 To sum up, what if we could combine it with
-### Ueage of Euler's Formula
+### Usage of Euler's Formula (and other formula)
+Given the example:
+$\int e^{ax} cos \ bx \ dx = \frac1a \int cos \ bx de^{ax}$
+$= \frac1ae^{ax}$
 [[Definition--Complex Numbers]]
 
 
