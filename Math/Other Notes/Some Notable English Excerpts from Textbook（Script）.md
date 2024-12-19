@@ -49,8 +49,13 @@
 25. However, moving so many eople is no **easy feat**, especially in a sustainable manner.
 26. The conference emphasized the intergrated and **cross-cutting** nature of sustainable transport and its multiple roles in supporting achievements.
 27. Buses also no longer needed to use crowded side streets, which **freed up** around 100 blocks for pedestrian-priority.
-28. Response and recovery 
-29. 1
-30. 
+28. Response and recovery efforts ,including **stimulus packages** to restart economis harmed by global lockdowns.
+29. The precentage of brand-loyal car buyers has **plummeted** in the past 20 years, and the price **premium** that a recognized brand can charge has shrunk.
+30. (Refer to the "premium" word in the last sentence)
+31. But even here the information **deluge** is transformative: luxury travel, for instance, has been profoundly affected by sites.
+32. Many Chinese cities have banned two-wheelers with internal **combustion** engines.
+33. Pendemic-related travel restrictions has temporraily led to improved air quality in some areas **prone to** heavy smog and air pollution.
+34. Rethinking and **revamping** transit in the post-COVID era by using structural changes would go a long way toward reinforcing the environment.
+35. Government subsidies should go toward sustainable transport systems instead of fossil fuels.
 
 
