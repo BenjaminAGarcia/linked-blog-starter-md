@@ -57,5 +57,7 @@
 33. Pendemic-related travel restrictions has temporraily led to improved air quality in some areas **prone to** heavy smog and air pollution.
 34. Rethinking and **revamping** transit in the post-COVID era by using structural changes would go a long way toward reinforcing the environment.
 35. Government subsidies should go toward sustainable transport systems instead of fossil fuels.
+36. Jetblue focuses on what really matters, for example, comfortable leather **upholstery** with more legroom for every travel experience at a discount price.
+37. 
 
 
