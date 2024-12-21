@@ -77,3 +77,64 @@
 |**prone to**|Likely to experience or suffer from something|Pandemic-related travel restrictions have temporarily led to improved air quality in some areas **prone to** heavy smog and air pollution.|
 |**revamping**|Revising or renovating something extensively|Rethinking and **revamping** transit in the post-COVID era by using structural changes would go a long way toward reinforcing the environment.|
 |**subsidies**|Financial assistance provided by the government to support businesses|Government **subsidies** should go toward sustainable transport systems instead of fossil fuels. (Assuming "subsidies" is the missing word in sentence 35)|
+
+
+---
+
+ **Batch 8 (Words 36–40)**
+
+|**Word**|**Definition / Cue**|**Sentence**|
+|---|---|---|
+|**upholstery**|Materials used to cover furniture, especially seats|JetBlue focuses on what really matters, for example, comfortable leather **upholstery** with more legroom for every travel experience at a discount price.|
+|**semantic**|Relating to meaning in language or logic|We no longer compete in a resource economy, but a **semantic** economy where firms that can build, manage, and widen connections win out.|
+|**outright**|Completely; entirely|Increasingly, rather than owning resources and capabilities **outright**, we use platforms to access ecosystems of technology, talent, and information.|
+|**venue**|The place where an event or meeting happens|Amongst the **venue** of the exhibition, what impressed me the most could not be more than the chilling atmosphere.|
+|**in the driving seat**|In control; holding the power or authority|Economic factors are always **in the driving seat** of political concern, or simply speaking, "It's economy, stupid!"|
+
+---
+
+ **Batch 9 (Words 41–45)**
+
+|**Word**|**Definition / Cue**|**Sentence**|
+|---|---|---|
+|**flogging a dead horse**|Wasting effort on something when there is no chance of success|All kinds of high-pressure review before the last hours of the exam are merely **flogging a dead horse** towards failure.|
+|**move the goal posts**|Changing the criteria or rules to make it harder to achieve something|Artificial Intelligence-based text generators could **move the goal posts** of traditional online servicing occupations and industries due to their supreme efficiency.|
+|**leaps and bounds ahead of**|Far superior to; significantly more advanced than|Back in the 1980s, Japan's economy was **leaps and bounds ahead of** any other economy collaborations worldwide, building a material basis of city pop culture.|
+|**top-notch**|Of the highest quality|ChatGPT is a **top-notch** transformer model which excels in logical thinking.|
+|**cost centers**|Departments or functions within a business that do not directly generate revenue|The old economy was relatively simple: every business had various **cost centers** and revenue streams that were largely separate and distinct.|
+
+---
+
+ **Batch 10 (Words 46–50)**
+
+|**Word**|**Definition / Cue**|**Sentence**|
+|---|---|---|
+|**propagated**|Spread and promoted widely|This was a huge barrier to entry that reinforced and **propagated** competitive advantage through economies of scale.|
+|**silo effect**|Lack of communication and collaboration between departments or groups|The **silo effect** has ruined the USSR while opening the economy has destroyed Brazil.|
+|**far-flung**|Distant; spread over a wide area|Sony failed to integrate its **far-flung** divisions as the reason that it lost out to the more **holistically** designed Apple iPod.|
+|**holistically**|Considering something as a whole rather than in parts|Sony failed to integrate its far-flung divisions as the reason that it lost out to the more **holistically** designed Apple iPod.|
+|**premise**|A basic idea or assumption|The basic **premise** of the old theory has become **untenable**.|
+
+---
+
+ **Batch 11 (Words 51–55)**
+
+|**Word**|**Definition / Cue**|**Sentence**|
+|---|---|---|
+|**untenable**|Not able to be maintained or defended against objection|The basic premise of the old theory has become **untenable**.|
+|**dubbed**|Given a name or nickname informally|Most English films and TV series were **dubbed** by pirate livestreaming groups in the 2010s.|
+|**waive**|To refrain from insisting on or enforcing a rule or requirement|LINE Corp recently launched a campaign to **waive** commission fees on QR code payments.|
+|**reckons**|Believes or thinks something is true|Guan **reckons** that US-based Internet companies like Google, Facebook, and WhatsApp will likely join the movement.|
+|**prepoderent**|_(Note: It appears there may be a typo. Assuming "preponderant")_|While the **preponderant** industry of a nation is based on natural resources, it is more likely to be hurt by tsunamis of economical shock. _(If "prepoderent" is different, please clarify.)_|
+
+---
+
+ **Batch 12 (Words 56–60)**
+
+|**Word**|**Definition / Cue**|**Sentence**|
+|---|---|---|
+|**inception**|The establishment or starting point of an institution or activity|Since the **inception**, Kickstarter has also **morphed** into a funding platform for innovators creating tech products.|
+|**morphed**|Underwent significant change in form or character|Since the inception, Kickstarter has also **morphed** into a funding platform for innovators creating tech products. _(Referenced as above)_|
+|**ostensible**|Stated or appearing to be true, but not necessarily so|The **ostensible** goal of all crowdfunding campaigns is to raise money.|
+|**harnessed**|Controlled and made use of (natural resources), especially to produce energy|The power of sociological effects can be **harnessed** to attract bankers.|
+|**Blank for Sentence 60**|_(No word provided)_||

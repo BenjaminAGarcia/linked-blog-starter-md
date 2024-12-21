@@ -56,8 +56,31 @@
 32. Many Chinese cities have banned two-wheelers with internal **combustion** engines.
 33. Pendemic-related travel restrictions has temporraily led to improved air quality in some areas **prone to** heavy smog and air pollution.
 34. Rethinking and **revamping** transit in the post-COVID era by using structural changes would go a long way toward reinforcing the environment.
-35. Government subsidies should go toward sustainable transport systems instead of fossil fuels.
+35. Government **subsidies** should go toward sustainable transport systems instead of fossil fuels.
 36. Jetblue focuses on what really matters, for example, comfortable leather **upholstery** with more legroom for every travel experience at a discount price.
-37. 
-
+37. We no longer compete in a resource economy, but a **semantic** economy where firms that can build, manage and widen connections win out.
+38. Increasingly, rathen than owning resources and capabilities **outright**, we use platforms to access ecosystems od technology, talent and information.
+39. Amongst the **venue** of the exhibition, which impressed me the most could not be more than the chilling atmosphere.
+40. Economic factors are always **in the driving seat** of political concern, or simply speaking, "It's economy, stupid!"
+41. All kinds of high-pressure review before the last hours of the exam are merely **flogging a dead horse** towards faliure.
+42. Artificial Intelligence-based text generator could **move the goal posts** of traditional online servicing occupation and industry due to its supreme efficiency.
+43. Back in the 1980s, Japan's economy is **leaps and bounds ahead of** any other economy collabrations worldwide, building a material basis of citypop culture.
+44. ChatGPT is  a **top-norch** transformr model which excels in logical thinking.
+45. The old economy was relavently simple: every business had various **cost centers** and revenue streams that were largely seperate and distinct.
+46. This was a huge barrier to entry that reinforced and **propagated** competitive advantage through economies of scale.
+47. **Silo effect** has ruined USSR while opening economy has destroyed Brazil.
+48. Sony failed to integrate its **far-flung** divisions as the reason thatit lost out to the more **holistically** designed apple iPod.
+49. ("holistically" referred as above)
+50. The basic **premise** of the old theory has become **untenable**.
+51. ("untenable" referred as above)
+52. Most English films and TV series was **dubbed** by pirate livestreaming groups in the 2010s.
+53. LINE Corp recently launched a campaign to **waive** conmission fees on QR code payments.
+54. Guan **reckons** that US-based Internet companies like Google, Facebook, and Whatsapp will likely to join the movement.
+55. While the **prepoderent** industry of a nation is based on natural resources, it are more likely to be hurt by tsunamis of econimical shock.
+56. Since the **inception**, Kickstarter has also **morphed** into a funding platform for innovators creating tech products.
+57. ("morphed"referrred as above)
+58. The **ostensible** goal of all crowdfunding campaigns is to raise money.
+59. The power of sociological effects can be **harnessed** to attract bankers.
+60. 
+ 
 
