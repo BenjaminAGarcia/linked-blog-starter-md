@@ -259,5 +259,41 @@
 |**108. opaque**|Not transparent; hard to understand or explain|The legal contract was so **opaque** that even the lawyers had difficulty interpreting it.|
 |**109. undue**|More than is reasonable or necessary; excessive|The new regulations placed an **undue** burden on small businesses, making it hard for them to remain competitive.|
 
+
 ---
 
+ **Batch 23 (Words 110–114)**
+
+| **Word**             | **Definition / Cue**                                                              | **Sentence**                                                                                                                                       |
+| -------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compartmentalize** | To separate into distinct parts or sections, often to simplify or prevent overlap | In large organizations, teams often **compartmentalize** their responsibilities to keep projects organized and minimize confusion.                 |
+| ** omnipresent**     | Present everywhere at the same time                                               | With smartphones, internet connectivity has become **omnipresent**, making it possible to communicate instantly from nearly anywhere in the world. |
+| ** anonymous**       | Having an unknown or withheld identity                                            | The whistleblower sent an **anonymous** tip to the press to avoid retaliation.                                                                     |
+| **ostensible**       | Stated or appearing to be true, but not necessarily so                            | The **ostensible** reason for the meeting was to discuss budgets, but the real motive was to address staff grievances.                             |
+| ** entail**          | To involve or require as a necessary consequence                                  | Promoting a sustainable lifestyle can **entail** making significant changes to one’s daily habits, from transportation to diet.                    |
+
+---
+
+ **Batch 24 (Words 115–119)**
+
+| **Word / Phrase**  | **Definition / Cue**                                                                         | **Sentence**                                                                                                                        |
+| ------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **homogenization** | The process of making things uniform or similar                                              | Globalization has led to the **homogenization** of many cultures, with local traditions being overshadowed by international brands. |
+| ** transaction**   | An instance of buying or selling something; an exchange of goods, services, or funds         | Before finalizing any **transaction**, ensure the terms and conditions are clear to both parties.                                   |
+| ** get clicks**    | To attract attention online, particularly in order to generate website traffic or ad revenue | Sensational headlines are often used to **get clicks**, even if the content itself lacks substantial information.                   |
+| ** poking holes**  | Criticizing or finding weaknesses in something, such as an argument or plan                  | The legal team spent hours **poking holes** in the opposing side’s case to strengthen their own defense.                            |
+| **morph into**     | To change or transform into something else                                                   | Over the past decade, many brick-and-mortar stores have had to **morph into** online businesses to stay competitive.                |
+
+---
+
+ **Batch 25 (Words 120–124)**
+
+| **Word / Phrase**  | **Definition / Cue**                                                                    | **Sentence**                                                                                                       |
+| ------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ** prop**          | Something used as support or to enhance a performance, or as a short form of “property” | The speaker used a simple chart as a **prop** during his presentation to emphasize the key statistics.             |
+| ** cost overruns** | Expenses that exceed the budgeted or expected amount                                    | The construction project faced major **cost overruns** after unexpected engineering challenges delayed completion. |
+| ** harnessed**     | Controlled and made use of, especially to produce power or other beneficial results     | Solar panels have effectively **harnessed** the sun’s energy to provide electricity for remote communities.        |
+| ** lodge**         | To become embedded or stuck; also, to make an official complaint or statement           | Employees threatened to **lodge** a grievance if the company did not address workplace safety issues immediately.  |
+| **compressed**     | Reduced in size or volume by pressure; also can mean shortened or condensed             | Complex training sessions were **compressed** into short video tutorials for easier consumption by new hires.      |
+
+---
